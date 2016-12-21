@@ -22,7 +22,7 @@ Testing cornice services
 ------------------------
 
 Testing is nice and useful. Some folks even said it helped saving kittens. And
-childs. Here is how you can test your Cornice's applications.
+children. Here is how you can test your Cornice's applications.
 
 Let's suppose you have this service definition:
 
